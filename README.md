@@ -7,7 +7,7 @@
 2. 启动后端WebSocket服务
 
 
-3. 前端做登录请,以便后续根据具体的用户绑定对应的WebSocketSession
+3. 前端做登录请求,以便后续根据具体的用户绑定对应的WebSocketSession
 
    `http://192.168.5.35:8080/demo/login/2`
    
