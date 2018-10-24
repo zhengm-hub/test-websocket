@@ -1,0 +1,9 @@
+logging:
+  level:
+    org.springframework: debug
+    com.movitech: debug
+
+server:
+  port: 8080
+  servlet:
+    context-path: /
